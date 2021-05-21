@@ -1,0 +1,4 @@
+- 👋 Bem vindo a meu GitHub
+- 👀 Sou estudante de T.I
+- 🏄‍♂️ Aqui você pode achar alguns projetos que senti que são bom o suficiente para postar.
+- 📫 Pode me alcançar pelo meu LinkedIn: http://linkedin.com/in/joao-staccioli-0300211ba
