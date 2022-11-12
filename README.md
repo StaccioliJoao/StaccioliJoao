@@ -1,7 +1,7 @@
 # Hi, I'm João
 
 ## 🚀 About me
-I'm a aspiring back-end developer. Interested in building my own API's and sharing them.
+Full Stack Developer
 
 
 ## 🔗 Links
